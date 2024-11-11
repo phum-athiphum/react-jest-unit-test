@@ -15,6 +15,6 @@ git clone https://github.com/phum-athiphum/react-jest-unit-test.git
 ### 2.Install Depedency
 npm install
 
-###3.Run the test
+### 3. Run the test
 
 npm run test
